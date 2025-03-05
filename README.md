@@ -1,3 +1,1 @@
-# GitHub-API-Tryout
-
-Tryout repo for GitHub REST APIs.
+Hello, World! Written using GitHub REST API.
